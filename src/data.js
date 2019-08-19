@@ -1,13 +1,12 @@
 export const storeProducts=[
     {
 
-    id: 1,
+    id:1,
     title: "Google pixel - Black",
     img: "img/product-1.png",
     price: 10,
     company: "Google",
-    info:
-    "T",
+    info:"",
     inCart: false,
     count: 0,
     total: 0
@@ -37,7 +36,7 @@ export const storeProducts=[
     total: 0
 },
 {
-id: 4,
+id:4,
 title: "nokia",
 img:"img/product-4.png",
 price: 16,
@@ -59,7 +58,7 @@ inCart: false,
     total: 0
 },
 {
-    id: 6,
+    id:6,
     title: "Tecno Spark",
     img:"img/product-6.png",
     price: 16,
@@ -85,7 +84,7 @@ inCart: false,
     title: "xiaomi",
     img:"img/product-8.png",
     price: 16,
-    company:"xiaomi",
+    company:"iphone",
     info:"",
     inCart: false,
     count: 0,
@@ -104,10 +103,10 @@ inCart: false,
 },
 {
     id: 10,
-    title: "iphone x",
+    title: "huawei pro 30",
     img:"img/product-10.png",
     price: 16,
-    company:"apple",
+    company:"huawei",
     info:"",
     inCart: false,
     count: 0,
@@ -115,10 +114,10 @@ inCart: false,
 },
 {
     id: 11,
-    title: "iphone x",
+    title: "huawei Y360",
     img:"img/product-11.png",
     price: 16,
-    company:"apple",
+    company:"huawei",
     info:"",
     inCart: false,
     count: 0,
@@ -126,10 +125,10 @@ inCart: false,
 },
 {
     id: 12,
-    title: "iphone x",
+    title: "huawei y7",
     img:"img/product-12.png",
     price: 16,
-    company:"apple",
+    company:"huawei",
     info:"",
     inCart: false,
     count: 0,
@@ -711,12 +710,14 @@ total: 0
 ];
 export const detailProduct = {
     id: 1,
-    title: "Google pixel-Black ",
-    img: "img/product-1.png",
-    price: 10,
-    company: "Google",
+    title: "HTC-HOT ",
+    img: "img/product-23.png",
+    price: 17,
+    company: "",
     info: "",
     incart: false,
     count: 0,
     total: 0
 };
+
+
