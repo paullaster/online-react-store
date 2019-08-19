@@ -43,3 +43,39 @@ body{
   color: var(--mainYellow);
   
 }
+.foot{
+  background: var(--mainBlue);
+  display: block;
+  text-align:center;
+  color: var(--mainWhite);
+  height:10rem;
+ 
+}
+.foot .ft-1{
+  text-align:left;
+  text-emphasis: bold;
+  float: left;
+  
+}
+.foot .ft-2{
+  text-emphasis: bold;
+  text-align: right;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  
+}
+.foot .ft-3{
+  align-content: center;
+  
+}
+.foot .ft-3 img{
+  width:80px;
+  height:50px;
+  color: transparent;
+
+}
+marquee .a:hover{
+cursor: pointer;
+
+}
