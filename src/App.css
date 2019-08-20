@@ -48,8 +48,11 @@ body{
   display: block;
   text-align:center;
   color: var(--mainWhite);
-  height:10rem;
- 
+  height:7rem;
+  bottom:0;
+  width: 100%;
+  left: 0;
+  position: absolute;
 }
 .foot .ft-1{
   text-align:left;
