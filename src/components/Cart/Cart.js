@@ -31,7 +31,7 @@ export default class Cart extends Component {
                         }
                     }
                 </ProductConsumer>
-               
+               <div className="cart-footer"></div>
                
             </section>
         )

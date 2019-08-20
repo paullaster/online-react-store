@@ -52,7 +52,10 @@ body{
   bottom:0;
   width: 100%;
   left: 0;
-  position: absolute;
+  position: relative;
+  margin-top: 250px;
+  z-index: 1;
+  box-sizing: border-box;
 }
 .foot .ft-1{
   text-align:left;
@@ -80,5 +83,7 @@ body{
 }
 marquee .a:hover{
 cursor: pointer;
-
+font-family: fantasy;
+font-size-adjust: none;
+text-emphasis: bold;
 }
