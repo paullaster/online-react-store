@@ -114,11 +114,11 @@ inCart: false,
 },
 {
     id: 11,
-    title: "huawei Y360",
+    title: "huawei Y6",
     img:"img/product-11.png",
     price: 16,
     company:"huawei",
-    info:"",
+    info:"HUAWEI Y6 Prime 2019 - 6.09” - 32GB ROM - 2GB RAM - Dual Sim Display: 6.09” HD+ (1560 x 720) Operating system: Android 9 pie Memory: 2GB RAM + 32GB RAM Rear Camera: 13 M AF Camera, f/1.8 Front Camera: 8 MP FF Camera, Selfie Toning Flash 2.0 Battery: 3020 mAh (Typical value) Earphones Not Included Warranty: 1 Year",
     inCart: false,
     count: 0,
     total: 0
